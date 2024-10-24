@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_photo": "https://i.ibb.co.com/6wN9dJD/2150698823.jpg",
+      "author_name": "John Doe",
+      "author_img": "https://i.ibb.co.com/806tvF3/jerome-result.webp",
+      "post_date": "2024-10-20",
+      "title": "The Future of AI in Everyday Life",
+      "reading_time": 5,
+      "hashtag": "#AI #Technology #Future"
+    },
+    {
+      "id": 2,
+      "cover_photo": "https://i.ibb.co.com/WG0DxRD/2150691619.jpg",
+      "author_name": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/nr5fFTy/donna-result.webp",
+      "post_date": "2024-10-15",
+      "title": "Top 10 Travel Destinations for 2025",
+      "reading_time": 7,
+      "hashtag": "#Travel #Adventure #2025"
+    },
+    {
+      "id": 3,
+      "cover_photo": "https://i.ibb.co.com/t8G08b8/6261.jpg",
+      "author_name": "Michael Brown",
+      "author_img": "https://i.ibb.co.com/LvD9dp9/leon-result.webp",
+      "post_date": "2024-10-10",
+      "title": "Understanding Blockchain Technology",
+      "reading_time": 6,
+      "hashtag": "#Blockchain #Cryptocurrency #Tech"
+    },
+    {
+      "id": 4,
+      "cover_photo": "https://i.ibb.co.com/2KMFLT5/2151344679.jpg",
+      "author_name": "Emily Davis",
+      "author_img": "https://i.ibb.co.com/S63VgTp/martin-result.webp",
+      "post_date": "2024-09-28",
+      "title": "How to Stay Productive While Working Remotely",
+      "reading_time": 4,
+      "hashtag": "#Productivity #RemoteWork #Lifestyle"
+    },
+    {
+      "id": 5,
+      "cover_photo": "https://i.ibb.co.com/Gk97NyP/12525.jpg",
+      "author_name": "Chris Johnson",
+      "author_img": "https://i.ibb.co.com/JCRYr3T/john-result.webp",
+      "post_date": "2024-09-25",
+      "title": "A Beginner’s Guide to Investing in Stocks",
+      "reading_time": 8,
+      "hashtag": "#Investing #Finance #Stocks"
+    }
+  ]
+  
